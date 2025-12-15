@@ -32,7 +32,7 @@ class Test(unittest.TestCase):
     def test_fibonacci_position_9(self):
 
         '''
-       Comprueba que el noveno número de la cade fibonacci 
+       Comprueba que el noveno número de la cadena fibonacci 
        corresponde con el número 21.
         '''
         expected_result = 21
